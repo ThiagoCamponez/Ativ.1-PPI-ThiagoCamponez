@@ -1,0 +1,29 @@
+{
+  "name": "ativ.1-ppi-thiagocamponez",
+  "version": "1.0.0",
+  "description": "Atividade 1 - PPI - Criação de uma Aplicação Web utilizando NodeJS - Simulação de página de vendas de ingressos online.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoCamponez/Ativ.1-PPI-ThiagoCamponez.git"
+  },
+  "keywords": [
+    "Aplicacao",
+    "NodeJS",
+    "Servidor",
+    "Web",
+    "express",
+    "javascript"
+  ],
+  "author": "Thiago Henrique dos Santos Camponez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoCamponez/Ativ.1-PPI-ThiagoCamponez/issues"
+  },
+  "homepage": "https://github.com/ThiagoCamponez/Ativ.1-PPI-ThiagoCamponez#readme"
+}
