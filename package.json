@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/ThiagoCamponez/Ativ.1-PPI-ThiagoCamponez/issues"
   },
-  "homepage": "https://github.com/ThiagoCamponez/Ativ.1-PPI-ThiagoCamponez#readme"
+  "homepage": "https://github.com/ThiagoCamponez/Ativ.1-PPI-ThiagoCamponez#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.18.0"
+  }
 }
